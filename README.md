@@ -5,8 +5,8 @@ My currently main focus is at developing highly scalable apps, from the ground u
 - ☕️ I’m interested in research and disruptive technologies. <br /><br />
 
 - 🌱 Aside my main job, I'm currently migrating a PHP MVC based system (my own MVC variation) to a
-Solid app (JS framework similar to React without virtual DOM) that uses microservices.
-This microservices are being developed using GraphQL (+ Shield for permissions) | MongoDB | GO (Golang).
+React app that relies on microservices.
+This microservices are being developed using GraphQL | MongoDB | GO (Golang).
 I'm also building a Design System (Tokens + Components), and had already connect to the Figma API to extract them.
 
 <!---
