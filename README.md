@@ -1,12 +1,12 @@
-- 🐣 Hi, I’m Felipe Candal Campos, I'm working at La Nación (BGlobalSolutions) as a React front end developer.
-My currently main focus is at developing highly scalable apps, from the ground up, using best practices
+- 🐣 Hi, I’m Felipe Candal Campos, I'm working at [La Nación](https://www.lanacion.com.ar/) as a React front end developer.
+Currently, my main focus is at developing highly scalable apps, from the ground up, using best practices
 (guidelines, for ex), and new technologies. <br /> <br />
 
 - ☕️ I’m interested in research and disruptive technologies. <br /><br />
 
 - 🌱 Aside my main job, I'm currently migrating a PHP MVC based system (my own MVC variation) to a
-React app that relies on microservices.
-This microservices are being developed using GraphQL | MongoDB | GO (Golang).
+React app that relies on a GraphQL server.
+This server is being developed using GraphQL | MongoDB | GO (Golang).
 I'm also building a Design System (Tokens + Components), and had already connect to the Figma API to extract them.
 
 <!---
