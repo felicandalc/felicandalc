@@ -7,7 +7,7 @@ Currently, my main focus is at developing highly scalable apps, from the ground 
 - 🌱 Aside my main job, I'm currently migrating a PHP MVC based system (my own MVC variation) to a
 React app that relies on a GraphQL server.
 This server is being developed using GraphQL | MongoDB | GO (Golang).
-I'm also building a Design System (Tokens + Components), and had already connect to the Figma API to extract them.
+I'm also building a Design System (Tokens + Components), and had already connected to the Figma API to extract them.
 
 <!---
 felicandalc/felicandalc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
